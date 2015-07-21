@@ -1,0 +1,29 @@
+.themify_builder .text-3901-0-0-1.module-text { padding-top: 15%; padding-right: 10%; padding-left: 10%;  } 
+/* .themify_builder_content-3901 > .module_row_1 Style */
+.themify_builder_content-3901 > .module_row_1.module_row {
+	background-color: #000000;;
+	color: #ffffff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row a {
+	color: #b2e3ff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row h1 {
+	color: #ffffff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row h2 {
+	color: #ffffff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row h3:not(.module-title) {
+	color: #ffffff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row h4 {
+	color: #ffffff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row h5 {
+	color: #ffffff;
+}
+.themify_builder_content-3901 > .module_row_1.module_row h6 {
+	color: #ffffff;
+}
+
+.themify_builder .text-3901-sub_row_1-0-1-1-0.module-text { padding-top: 15%; padding-right: 10%; padding-left: 10%;  } 
